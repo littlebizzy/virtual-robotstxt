@@ -1,6 +1,7 @@
 === Virtual Robots.txt ===
 
 Contributors: littlebizzy
+Donate link: https://www.patreon.com/littlebizzy
 Tags: virtual, robots, robots.txt, edit, editor
 Requires at least: 4.4
 Tested up to: 4.9
