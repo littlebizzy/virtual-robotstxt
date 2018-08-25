@@ -7,7 +7,7 @@ Requires at least: 4.4
 Tested up to: 4.9
 Requires PHP: 7.0
 Multisite support: No
-Stable tag: 1.0.7
+Stable tag: 1.0.8
 License: GPLv3
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 Prefix: VRTRBT
@@ -212,33 +212,36 @@ Please avoid leaving negative reviews in order to get a feature implemented. Ins
 
 == Changelog ==
 
+= 1.0.8 =
+* updated plugin meta
+
 = 1.0.7 =
 * added warning for Multisite installations
 * updated recommended plugins
 
 = 1.0.6 =
 * tested with WP 4.9
-* added support for `define('DISABLE_NAG_NOTICES', true);`
+* added support for `DISABLE_NAG_NOTICES`
 
 = 1.0.5 =
 * optimized plugin code
+* added rating request notice
 * updated recommended plugins
-* added rating request
 
 = 1.0.4 =
-* minor code tweaks
+* optimized plugin code
 * updated recommended plugins
 
 = 1.0.3 =
-* added recommended plugins
+* added recommended plugins notice
 
 = 1.0.2 =
 * tested with WP 4.8
 
 = 1.0.1 =
 * changed menu link name
-* added tips to settings page
-* changed folder name
+* changed plugin folder name
+* added helpful tips to settings page
 
 = 1.0.0 =
-* initial release (private)
+* initial release (non-public)
